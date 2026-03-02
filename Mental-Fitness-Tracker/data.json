@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Pavani",
+        "mood": 8,
+        "stress": 3,
+        "sleep": 7,
+        "wellness_score": 7.4,
+        "category": "Good"
+    },
+    {
+        "name": "Varun",
+        "mood": 6,
+        "stress": 6,
+        "sleep": 5,
+        "wellness_score": 4.4,
+        "category": "Moderate"
+    },
+    {
+        "name": "Gopi",
+        "mood": 4,
+        "stress": 8,
+        "sleep": 4,
+        "wellness_score": 2.4,
+        "category": "Needs Attention"
+    },
+    {
+        "name": "Suman",
+        "mood": 9,
+        "stress": 2,
+        "sleep": 8,
+        "wellness_score": 8.0,
+        "category": "Good"
+    },
+    {
+        "name": "Venkat",
+        "mood": 5,
+        "stress": 7,
+        "sleep": 6,
+        "wellness_score": 3.8,
+        "category": "Needs Attention"
+    }
+]
