@@ -46,5 +46,21 @@
         "sleep": 5,
         "wellness_score": 3.2,
         "category": "Needs Attention"
+    },
+    {
+        "name": "raju",
+        "mood": 5,
+        "stress": 5,
+        "sleep": 5,
+        "wellness_score": 3.0,
+        "category": "Needs Attention"
+    },
+    {
+        "name": "babu",
+        "mood": 40,
+        "stress": 40,
+        "sleep": 20,
+        "wellness_score": 16.0,
+        "category": "Good"
     }
 ]
